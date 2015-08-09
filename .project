@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>NetManagers-CommunityBridge-2</name>
-	<comment></comment>
+	<name>CommunityBridge</name>
+	<comment>A Minecraft Bukkit Plugin for connecting a server to a remote database</comment>
 	<projects>
 	</projects>
 	<buildSpec>
