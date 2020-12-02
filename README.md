@@ -10,8 +10,6 @@ As I have closed my Forums I needed a way to still track users and publish infor
 
 First thing is first, credit goes to Chiller for the base to which this plugin is based off. His work with ForumBridge was what inspired me to update and add to his already great plugin. So in essence this is a continuation of Chiller's ForumBridge plugin, I have added some new features and cleaned up a few small bugs. I have also added some basic statistics tracking and the ability to set requirements to play on the server. There are a whole slew of features available in this release and more to come in time. So the reason its not ForumBridge is because its more of a CommunityBridge in my opinion as its not limited to using just forums as a base point for access control.​
 
------
-
 # Change Log
 
 Version 1.11:
