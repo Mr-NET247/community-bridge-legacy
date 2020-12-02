@@ -15,21 +15,29 @@ First thing is first, credit goes to Chiller for the base to which this plugin i
 Version 1.11:
 - Fixed a bug where it would not set players offline on disconnect when using single table or multi-table with key.
 - Creates users properly now
+
 Version 1.10:
 - Added a new feature to create database records for new players this currently only supports single tables and is a work in progress.
+
 Version 1.07:
 - Added secondary timer option to remind unregistered users more frequently to register (Requested by Ablac)
 - Compatable with 1.2.5-R4
+
 Version 1.05:
 - Fixed some broken Commands
 - Plugin disables itself when there is a SQL query problem
 - Better SQL Connection checks before queries
+
 Version 1.04:
 - Fixed Permission Names
 - Updated Commands
+
 Version 1.02:
 - Fixed bPermissions
+
 Version 1.01:
 - Added comments to default config.yml
 - Fixed missing value from config.yml
-Version 1: Initial Release
+
+Version 1: 
+- Initial Release
